@@ -6,3 +6,4 @@ n1=float.parse(Console.ReadLine());
 Console.WriteLine("Digite nota 2 del estuidnate");
 n2=float.parse(Console.ReadLine());
 
+Console.WriteLine();
