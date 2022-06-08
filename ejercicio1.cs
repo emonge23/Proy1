@@ -7,3 +7,5 @@ Console.WriteLine("Digite nota 2 del estuidnate");
 n2=float.parse(Console.ReadLine());
 
 Console.WriteLine();
+promedio=(n1*n2);
+Console.WriteLine("el resultado es : {0}", promerdio);
